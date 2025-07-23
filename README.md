@@ -44,11 +44,9 @@ const abhishek = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
-
-* 🌍  **Based in**: Bathinda, India
 * ✉️  **Reach me at**: abishekgarg610@gmail.com
 * 🧠  **Currently mastering**: DSA, Full Stack Development (MERN), System Design
-* 🎯  **2024 Goals**: Contributing to open source & building impactful projects
+* 🎯  **2025 Goals**: Contributing to open source & building impactful projects
 * 💡  **Philosophy**: "Code is poetry written in logic"
 
 ---
